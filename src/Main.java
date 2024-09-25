@@ -3,5 +3,6 @@ public class Main {
         System.out.println("지정욱");
         World.run();
         World.run2();
+        Helo.run();
     }
 }
